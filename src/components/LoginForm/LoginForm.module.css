@@ -2,5 +2,14 @@
     display: flex;
     flex-direction: column;
     gap: 10px;
+
+    min-width: 320px;
   }
   
+  .input {
+    color: black;
+  }
+
+  .form button {
+    background-color: rgba(237, 235, 126, 0.153);
+  }

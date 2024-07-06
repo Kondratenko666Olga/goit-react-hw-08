@@ -1,0 +1,11 @@
+.navLinks {
+    display: flex;
+    gap: 15px;
+    justify-content: flex-end;
+    padding-top:  10px;
+}
+
+.link {
+    border: ridge;
+    width: 20%;
+}
